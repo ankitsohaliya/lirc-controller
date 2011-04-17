@@ -10,5 +10,3 @@
   # implement long click for different signal
   # nicer animations
   # server communication in other thread
-
-https://picasaweb.google.com/lh/photo/AIo0bG2krD5OBwdYVQhrDQ?feat=directlink
