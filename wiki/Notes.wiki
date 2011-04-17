@@ -1,9 +1,9 @@
 #summary Notes
 = TODO: =
   # documentation
-  # add license GPL3 to files
+  # add GPL3 license to files
   # additional icons from SD card
-  # putting activities into tab _possible?_
+  # putting activities into tab _"possible"?_
   # lack of server exceptions
   # orientation change
   # implement long click for repeating
