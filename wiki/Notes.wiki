@@ -10,3 +10,5 @@
   # implement long click for different signal
   # nicer animations
   # server communication in other thread
+
+PreferencesMain.png
