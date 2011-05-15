@@ -1,6 +1,6 @@
 #summary Notes
 = TODO: =
-  # documentation
+  # ~~documentation~~
   # add GPL3 license to files
   # additional icons from SD card
   # putting activities into tab _"possible"?_
